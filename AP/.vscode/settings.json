@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "vector": "cpp",
+        "queue": "cpp",
+        "tuple": "cpp",
+        "random": "cpp",
+        "unordered_map": "cpp",
+        "stdexcept": "cpp",
+        "thread": "cpp",
+        "cmath": "cpp",
+        "new": "cpp",
+        "string_view": "cpp",
+        "regex": "cpp"
+    }
+}
